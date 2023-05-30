@@ -6,9 +6,13 @@ Proje Hakkında
 Bu proje, kullanıcıların makaleler oluşturabileceği, yorum yapabileceği ve bu içerikler arasında etkileşimde bulunabileceği bir uygulamayı içermektedir. Uygulama, aşağıdaki bileşenleri içermektedir:
 
 client-reactjs: Kullanıcı arayüzünün oluşturulduğu React uygulaması.
+
 posts: Makale oluşturma ve listeleme işlemlerini gerçekleştiren Node.js mikroservisi.
+
 comments: Yorum oluşturma ve listeleme işlemlerini gerçekleştiren Node.js mikroservisi.
+
 event-bus: Olay veri yayılımını sağlayan Node.js mikroservisi.
+
 Nasıl Çalıştırılır
 Proje dosyalarını yerel bilgisayarınıza indirin.
 
