@@ -29,7 +29,8 @@ Her bir mikroservis klasöründe ayrı terminaller açarak aşağıdaki adımlar
 Tarayıcınızda http://localhost:3000 adresine gidin ve uygulamayı görüntüleyin.
 
 Katkıda Bulunma
-Her türlü katkı ve geri bildirimleriniz bu projeyi geliştirmek için çok değerlidir. Herhangi bir sorunuz veya öneriniz varsa, lütfen issue açarak bize bildirin.
+Her türlü katkı ve geri bildirimleriniz bu projeyi geliştirmek için çok değerlidir. Herhangi bir sorunuz veya öneriniz varsa, lütfen issue açarak bana bildirin.
 
 Lisans
+
 Bu proje MIT lisansı altında lisanslanmıştır.
