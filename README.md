@@ -13,20 +13,22 @@ comments: Yorum oluşturma ve listeleme işlemlerini gerçekleştiren Node.js mi
 
 event-bus: Olay veri yayılımını sağlayan Node.js mikroservisi.
 
+query: Veri sorgulama ve okuma işlemlerini gerçekleştiren Node.js mikroservisi.
+
 Nasıl Çalıştırılır
 Proje dosyalarını yerel bilgisayarınıza indirin.
 
-Terminali açın ve her bir mikroservis klasörüne gidin (client-reactjs, posts, comments, event-bus).
+Terminali açın ve her bir mikroservis klasörüne gidin (client-reactjs, posts, comments, event-bus, query).
 
 Her bir mikroservis klasöründe ayrı terminaller açarak aşağıdaki adımları takip edin:
 
+npm install (Gerekli bağımlılıkların yüklenmesi)
 
-- npm install
-
-- npm start
-
+npm start (Uygulamanın başlatılması)
 
 Tarayıcınızda http://localhost:3000 adresine gidin ve uygulamayı görüntüleyin.
+
+
 
 Katkıda Bulunma
 Her türlü katkı ve geri bildirimleriniz bu projeyi geliştirmek için çok değerlidir. Herhangi bir sorunuz veya öneriniz varsa, lütfen issue açarak bana bildirin.
