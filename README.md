@@ -1,6 +1,4 @@
-# blog-project-multiservices-with-nodejs-and-react
-
-Mikroservis Mimarisi Kullanarak React ve Node.js ile Etkileşimli Uygulama
+# Mikroservis Mimarisi Kullanarak React ve Node.js ile Etkileşimli Uygulama
 
 Bu proje, mikroservis mimarisi kullanarak oluşturulmuş etkileşimli bir uygulamayı içerir. React ve Node.js kullanılarak geliştirilmiştir ve olay veri yayılımı (event bus) kullanılarak mikroservisler arasında iletişim sağlanmaktadır.
 
