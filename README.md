@@ -16,11 +16,11 @@ Terminali açın ve her bir mikroservis klasörüne gidin (client-reactjs, posts
 
 Her bir mikroservis klasöründe ayrı terminaller açarak aşağıdaki adımları takip edin:
 
-´´´
-$ npm install
 
-$ npm start
-´´´
+- npm install
+
+- npm start
+
 
 Tarayıcınızda http://localhost:3000 adresine gidin ve uygulamayı görüntüleyin.
 
