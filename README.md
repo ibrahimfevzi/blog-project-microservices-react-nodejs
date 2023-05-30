@@ -14,7 +14,7 @@ comments: Yorum oluşturma ve listeleme işlemlerini gerçekleştiren Node.js mi
 
 event-bus: Olay veri yayılımını sağlayan Node.js mikroservisi.
 
-query: Veri sorgulama ve okuma işlemlerini gerçekleştiren Node.js mikroservisi.
+query: Veri sorgulama ve okuma işlemlerini gerçekleştiren Node.js mikroservisi..
 
 # Nasıl Çalıştırılır
 
