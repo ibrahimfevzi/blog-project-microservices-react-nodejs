@@ -18,6 +18,7 @@ Her bir mikroservis klasöründe ayrı terminaller açarak aşağıdaki adımlar
 
 ´´´
 $ npm install
+
 $ npm start
 ´´´
 
